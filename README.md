@@ -1,1 +1,3 @@
 # sencap
+
+basic sentence capitalizer from given file or from text directly inputted becuase i'm too lazy to capitalize my sentences. why is the shift key so far away...
